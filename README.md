@@ -1,4 +1,4 @@
-# qa_guru_python_8_2
+# Homework for QA GURU Python lesson 2
 
 Task:
 - Improve the test for searching on Google from the first Pytest session.
